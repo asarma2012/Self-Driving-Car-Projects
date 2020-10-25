@@ -1,2 +1,2 @@
-# iSDC-P2-Translate-Python-Cpp
-Repository for P2 of iSDC - Translate Python to C++
+# Kalman Filters C++ Demo
+Project that showcases Kalman Filters in action. 
